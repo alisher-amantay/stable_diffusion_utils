@@ -1,0 +1,10 @@
+__pycache__/
+.DS_Store
+generations/
+in_data/
+
+# Environments
+.env
+.venv
+env/
+venv/
